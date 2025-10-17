@@ -6,23 +6,20 @@ This repository contains the implementation of cross-cultural persuasion dialogu
 
 ## 📋 Framework Overview
 
-### Original Framework Structure
+### Framework Architecture Overview
 
-**Purpose**: Provides the original framework structure and design principles  
-**Content**: Detailed explanation of the base PersuaSim framework architecture  
-**Use Case**: Understanding the foundational design before cultural enhancements
+<div align="center">
+  <a href="original_structure.pdf">
+    <img src="original_structure.png" alt="Original Framework Structure" width="50%" style="margin-right: 2%;">
+  </a>
+  <a href="monitor_detail.pdf">
+    <img src="monitor_detail.png" alt="Quality Monitoring System" width="25%">
+  </a>
+</div>
 
-[![Original Structure](original_structure.png)](original_structure.pdf)
-*Click the image to view the full PDF document*
-
-### Quality Monitoring System Details
-
-**Purpose**: Comprehensive guide to the quality monitoring system  
-**Content**: Detailed specifications of all monitoring agents (3.0, 3.1, 3.2) and their implementation  
-**Use Case**: Understanding how the framework ensures conversation quality and cultural alignment
-
-[![Monitor Details](monitor_detail.png)](monitor_detail.pdf)
-*Click the image to view the full PDF document*
+**Left**: Original framework structure and design principles  
+**Right**: Quality monitoring system details (3.0, 3.1, 3.2 agents)  
+*Click images to view full PDF documents*
 
 ## Framework Modes
 
