@@ -4,6 +4,26 @@ This repository contains the code for the EMNLP 2025 paper: **Enhancing LLM-Base
 
 This repository contains the implementation of cross-cultural persuasion dialogue generation framework, supporting multiple experimental modes corresponding to different research frameworks described in the paper.
 
+## 📋 Framework Overview
+
+### Original Framework Structure
+
+**Purpose**: Provides the original framework structure and design principles  
+**Content**: Detailed explanation of the base PersuaSim framework architecture  
+**Use Case**: Understanding the foundational design before cultural enhancements
+
+[![Original Structure](original_structure.png)](original_structure.pdf)
+*Click the image to view the full PDF document*
+
+### Quality Monitoring System Details
+
+**Purpose**: Comprehensive guide to the quality monitoring system  
+**Content**: Detailed specifications of all monitoring agents (3.0, 3.1, 3.2) and their implementation  
+**Use Case**: Understanding how the framework ensures conversation quality and cultural alignment
+
+[![Monitor Details](monitor_detail.png)](monitor_detail.pdf)
+*Click the image to view the full PDF document*
+
 ## Framework Modes
 
 The code supports 5 different modes that correspond to different experimental frameworks:
@@ -174,21 +194,6 @@ The framework includes several quality monitoring agents:
 2. **Cultural Background Conflict Detection (3.1)**: Detects cultural misalignment
 3. **Language Verification Filter (3.2)**: Ensures correct language usage (modes 3,4)
 
-## Documentation
-
-For detailed technical documentation, please refer to the following PDF files:
-
-### 📋 [original_structure.pdf](original_structure.pdf)
-- **Purpose**: Provides the original framework structure and design principles
-- **Content**: Detailed explanation of the base PersuaSim framework architecture
-- **Use Case**: Understanding the foundational design before cultural enhancements
-
-### 🔍 [monitor_detail.pdf](monitor_detail.pdf)
-- **Purpose**: Comprehensive guide to the quality monitoring system
-- **Content**: Detailed specifications of all monitoring agents (3.0, 3.1, 3.2) and their implementation
-- **Use Case**: Understanding how the framework ensures conversation quality and cultural alignment
-
-These documents provide in-depth technical details that complement the code implementation and help users understand the theoretical foundations and quality assurance mechanisms of the framework.
 
 ## Citation
 
