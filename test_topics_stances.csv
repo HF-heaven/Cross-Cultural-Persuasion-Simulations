@@ -1,0 +1,27 @@
+question,pair,distance,country1,country2,Binary score_country1,Binary score_country2,Weighted score country1,Weighted score country2,q_content,topic,view1,view2
+Q34,BGD_DEU,0.484046563,BGD,DEU,0.774030354,-0.220822281,1.295109612,-0.466843501,"When jobs are scarce, employers should give priority to people of this country over immigrants",SOCIAL VALUES,Agree,Disagree
+Q34,BGD_GBR,0.463797805,BGD,GBR,0.774030354,-0.178849145,1.295109612,-0.384914463,"When jobs are scarce, employers should give priority to people of this country over immigrants",SOCIAL VALUES,Agree,Disagree
+Q34,GBR_GBR,0,GBR,GBR,0.178849145,-0.178849145,0.384914463,-0.384914463,"When jobs are scarce, employers should give priority to people of this country over immigrants",SOCIAL VALUES,Agree,Disagree
+Q122,JPN_TUR,0.375695333,JPN,TUR,0.51641791,-0.226488352,0.51641791,-0.226488352,"In terms of the effects of immigration on the development of your country,  do you agree with Fills important jobs vacancies?",MIGRATION,Agree,Disagree
+Q122,JPN_JPN,0,JPN,JPN,0.51641791,-0.51641791,0.51641791,-0.51641791,"In terms of the effects of immigration on the development of your country,  do you agree with Fills important jobs vacancies?",MIGRATION,Agree,Disagree
+Q122,TUR_TUR,0,TUR,TUR,0.226488352,-0.226488352,0.226488352,-0.226488352,"In terms of the effects of immigration on the development of your country,  do you agree with Fills important jobs vacancies?",MIGRATION,Agree,Disagree
+Q123,JPN_RUS,0.420184826,JPN,RUS,0.505216095,-0.112707182,0.505216095,-0.112707182,"In terms of the effects of immigration on the development of your country,  do you agree with Strengthens cultural diversity?",MIGRATION,Agree,Disagree
+Q126,CHN_RUS,0.399989317,CHN,RUS,-0.313101161,0.513812155,-0.313101161,0.513812155,"In terms of the effects of immigration on the development of your country,  do you agree with Increases the risks of terrorism?",MIGRATION,Disagree,Agree
+Q126,RUS_RUS,0,RUS,RUS,0.513812155,0.513812155,0.513812155,0.513812155,"In terms of the effects of immigration on the development of your country,  do you agree with Increases the risks of terrorism?",MIGRATION,Disagree,Agree
+Q126,CHN_CHN,0,CHN,CHN,-0.313101161,-0.313101161,-0.313101161,-0.313101161,"In terms of the effects of immigration on the development of your country,  do you agree with Increases the risks of terrorism?",MIGRATION,Disagree,Agree
+Q160,GBR_KOR,0.397180727,GBR,KOR,-0.478328778,0.246586345,-1.72666927,0.530120482,We depend too much on science and not enough on faith.,SCIENCE & TECHNOLOGY,Disagree,Agree
+Q160,DEU_KOR,0.382281454,DEU,KOR,-0.404054054,0.246586345,-1.494594595,0.530120482,We depend too much on science and not enough on faith.,SCIENCE & TECHNOLOGY,Disagree,Agree
+Q160,KOR_KOR,0,KOR,KOR,0.246586345,0.246586345,0.530120482,0.530120482,We depend too much on science and not enough on faith.,SCIENCE & TECHNOLOGY,Disagree,Agree
+Q37,BGD_DEU,0.553204423,BGD,DEU,0.886227545,-0.399335548,1.419161677,-0.539534884,It is a duty towards society to have children,SOCIAL VALUES,Agree,Disagree
+Q38,BGD_GBR,0.632948364,BGD,GBR,0.980769231,-0.187548337,1.738294314,-0.252513534,Adult children have the duty to provide long-term care for their parents,SOCIAL VALUES,Agree,Disagree
+Q196,BGD_TUR,0.472274009,BGD,TUR,0.706405694,-0.424740484,1.273131673,-0.753460208,A country's government should have the right to keep people under video surveillance in public areas.,ETHICAL VALUES AND NORMS,Agree,Disagree
+Q34,BGD_DEU,0.484046563,BGD,DEU,0.774030354,-0.220822281,1.295109612,-0.466843501,"When jobs are scarce, employers should give priority to people of this country over immigrants",SOCIAL VALUES,Disagree,Agree
+Q34,BGD_GBR,0.463797805,BGD,GBR,0.774030354,-0.178849145,1.295109612,-0.384914463,"When jobs are scarce, employers should give priority to people of this country over immigrants",SOCIAL VALUES,Disagree,Agree
+Q122,JPN_TUR,0.375695333,JPN,TUR,0.51641791,-0.226488352,0.51641791,-0.226488352,"In terms of the effects of immigration on the development of your country,  do you agree with Fills important jobs vacancies?",MIGRATION,Disagree,Agree
+Q123,JPN_RUS,0.420184826,JPN,RUS,0.505216095,-0.112707182,0.505216095,-0.112707182,"In terms of the effects of immigration on the development of your country,  do you agree with Strengthens cultural diversity?",MIGRATION,Disagree,Agree
+Q126,CHN_RUS,0.399989317,CHN,RUS,-0.313101161,0.513812155,-0.313101161,0.513812155,"In terms of the effects of immigration on the development of your country,  do you agree with Increases the risks of terrorism?",MIGRATION,Agree,Disagree
+Q160,GBR_KOR,0.397180727,GBR,KOR,-0.478328778,0.246586345,-1.72666927,0.530120482,We depend too much on science and not enough on faith.,SCIENCE & TECHNOLOGY,Agree,Disagree
+Q160,DEU_KOR,0.382281454,DEU,KOR,-0.404054054,0.246586345,-1.494594595,0.530120482,We depend too much on science and not enough on faith.,SCIENCE & TECHNOLOGY,Agree,Disagree
+Q37,BGD_DEU,0.553204423,BGD,DEU,0.886227545,-0.399335548,1.419161677,-0.539534884,It is a duty towards society to have children,SOCIAL VALUES,Disagree,Agree
+Q38,BGD_GBR,0.632948364,BGD,GBR,0.980769231,-0.187548337,1.738294314,-0.252513534,Adult children have the duty to provide long-term care for their parents,SOCIAL VALUES,Disagree,Agree
+Q196,BGD_TUR,0.472274009,BGD,TUR,0.706405694,-0.424740484,1.273131673,-0.753460208,A country's government should have the right to keep people under video surveillance in public areas.,ETHICAL VALUES AND NORMS,Disagree,Agree
