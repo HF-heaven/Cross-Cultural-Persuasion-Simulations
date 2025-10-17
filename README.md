@@ -2,6 +2,23 @@
 
 This repository contains the code for the EMNLP 2025 paper: **Enhancing LLM-Based Persuasion Simulations with Cultural and Speaker-Specific Information**.
 
+## Authors
+
+**Weicheng Ma¹\*, Hefan Zhang²\*, Shiyu Ji³, Farnoosh Hashemi³**  
+**Qichao Wang², Ivory Yang², Joice Chen³, Juanwen Pan³**  
+**Michael Macy³, Saeed Hassanpour², Soroush Vosoughi²**
+
+¹Georgia Institute of Technology  
+²Dartmouth College  
+³Cornell University  
+
+## Repository Maintainer
+
+**This repository is maintained by Hefan Zhang (PhD student at Dartmouth College).**  
+For code-related questions, please contact: **hefan.zhang.gr@dartmouth.edu**
+
+---
+
 This repository contains the implementation of cross-cultural persuasion dialogue generation framework, supporting multiple experimental modes corresponding to different research frameworks described in the paper.
 
 ## 📋 Framework Overview
