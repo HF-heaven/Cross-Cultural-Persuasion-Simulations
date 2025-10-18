@@ -2,6 +2,8 @@
 
 This repository contains the code for the EMNLP 2025 paper: **Enhancing LLM-Based Persuasion Simulations with Cultural and Speaker-Specific Information**.
 
+Our work builds upon the **[LLM-based persuasion simulator framework](https://aclanthology.org/2025.naacl-long.203/)** and extends it to model cultural context in persuasive dialogue generation.
+
 ## Authors
 
 **Weicheng Ma¹\*, Hefan Zhang²\*, Shiyu Ji³, Farnoosh Hashemi³**  
@@ -14,7 +16,7 @@ This repository contains the code for the EMNLP 2025 paper: **Enhancing LLM-Base
 
 ## Repository Maintainer
 
-**This repository is maintained by Hefan Zhang (PhD student at Dartmouth College).**  
+**This codebase was primarily developed and maintained by Hefan Zhang.**  
 For code-related questions, please contact: **hefan.zhang.gr@dartmouth.edu**
 
 ---
@@ -214,6 +216,13 @@ The framework includes several quality monitoring agents:
 If you use this code in your research, please cite the corresponding paper:
 
 ```bibtex
+coming soon...
+}
+```
+
+This work extends the LLM-based persuasion simulator framework:
+
+```bibtex
 @inproceedings{ma2025communication,
   title={Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication},
   author={Ma, Weicheng and Zhang, Hefan and Yang, Ivory and Ji, Shiyu and Chen, Joice and Hashemi, Farnoosh and Mohole, Shubham and Gearey, Ethan and Macy, Michael and Hassanpour, Saeed and others},
@@ -222,6 +231,7 @@ If you use this code in your research, please cite the corresponding paper:
   year={2025}
 }
 ```
+If your work also builds upon the original framework, please consider citing both papers.
 
 ## Framework Extensions
 
