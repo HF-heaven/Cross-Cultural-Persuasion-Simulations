@@ -217,7 +217,6 @@ If you use this code in your research, please cite the corresponding paper:
 
 ```bibtex
 coming soon...
-}
 ```
 
 This work extends the LLM-based persuasion simulator framework:
