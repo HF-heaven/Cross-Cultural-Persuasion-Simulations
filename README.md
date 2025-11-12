@@ -1,6 +1,6 @@
 # Cross-Cultural Persuasion Simulations
 
-This repository contains the code for the EMNLP 2025 paper: **[Enhancing LLM-Based Persuasion Simulations with Cultural and Speaker-Specific Information**](https://aclanthology.org/2025.findings-emnlp.808/).
+This repository contains the code for the EMNLP 2025 paper: **[Enhancing LLM-Based Persuasion Simulations with Cultural and Speaker-Specific Information](https://aclanthology.org/2025.findings-emnlp.808/)**.
 
 Our work builds upon the **[LLM-based persuasion simulator framework](https://aclanthology.org/2025.naacl-long.203/)** and extends it to model cultural context in persuasive dialogue generation.
 
